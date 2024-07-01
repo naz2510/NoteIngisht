@@ -1,6 +1,6 @@
-Work - save our notes
+Work - save our notes and tracks tasks
 
-Language - HTML5, CSS(BootStrap 4), JavaScript, jQuery, Ajax, Java 11, JSP
+Language - HTML5, CSS(BootStrap 4), JavaScript, jQuery, Java 11, JSP
 
 DataBase - MySQL 8.0.19
 

@@ -8,4 +8,4 @@ IDE - NetBeans 12.2
 
 Server - Apache Tomcat
 
-First dump sql file, then import zip file in netbeans
+First dump sql file, then import zip file in eclipse

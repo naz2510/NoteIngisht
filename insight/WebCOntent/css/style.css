@@ -1,0 +1,25 @@
+
+.bg-custom{
+	background-color:pink;
+}
+.navbar.nav-item.nav-link {
+	font-size: 20px;
+	color: white;
+}
+
+.navbar-custom .nav-item:hover .nav-link {
+	background: white;
+	color: #303f9f;
+
+	border-radius: 10px;
+}
+
+.container-fluid2{
+	height:30vh;
+}
+
+
+.div-color{
+	background-color:#7771df;
+	height: 600px;
+}

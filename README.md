@@ -10,12 +10,16 @@ Server - Apache Tomcat
 
 First dump sql file, then import zip file in eclipse
 
+
 LOGIN PAGE-
 ![login](https://github.com/naz2510/NoteIngisht/assets/174327360/5c4c758e-d5f5-4aa8-bf86-a471649f8439)
+
 REGISTRATION PAGE
 ![register](https://github.com/naz2510/NoteIngisht/assets/174327360/2dca85ae-6483-4a0f-af1d-1281cd515793)
+
 ADD NOTES
 ![addNotes](https://github.com/naz2510/NoteIngisht/assets/174327360/563abb90-58c2-417c-90fe-d5617bfe4e44)
+
 SHOW NOTES
 ![showNotes](https://github.com/naz2510/NoteIngisht/assets/174327360/847a44d7-2b04-4bf3-8c63-76827b161e8a)
 
